@@ -1,6 +1,6 @@
 # AirBnB clone - The console
-The goal of the project is to deploy on a server a simple copy of the AirBnB website.
-It won’t implement all the features, only some of them to cover all fundamental concepts of the higher level programming track.
+This project is aimed at deploying a simple copy of the AirBnB website on a web server.
+The idea is to clone some features of the website in a bit to cover all fundamental concepts of the higher level programming.
 
 # First step: Write a command interpreter to manage your AirBnB objects.
 This first step is very important because it will use what you build during this project with all other following projects: HTML/CSS templating, database storage, API, front-end in
