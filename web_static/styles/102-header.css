@@ -1,10 +1,12 @@
+/*
+ * === Header style ===
+ */
+
+/* Header style */
 header {
-    background-color: white;
+    /* position: fixed; */
+    background: #fff url('../images/logo.png') 20px center no-repeat;
     height: 70px;
     width: 100%;
-    border-bottom: 1px solid #CCCCCC;
-    background-image: url("../images/logo.png");
-    background-repeat: no-repeat;
-    background-position-x: 20px;
-    background-position-y: center;
+    border-bottom: 1px solid #ccc;
 }

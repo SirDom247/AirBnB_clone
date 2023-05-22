@@ -1,3 +1,7 @@
-header{
-    background-color: #FF0000; height: 70px;width:100%;
-}
+/* header styls */
+
+header {
+    background: #f00;
+    height: 70px;
+    width: 100%;
+  }

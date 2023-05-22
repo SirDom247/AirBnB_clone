@@ -1,4 +1,9 @@
-body{
-    padding: unset;
-    margin: unset;
+/* 
+* === Global Styles ===
+*/
+
+/* body styles */
+body {
+    margin: 0;
+    padding: 0;
 }
