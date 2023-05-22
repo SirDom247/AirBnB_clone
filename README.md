@@ -111,4 +111,4 @@ help or help <command> Ex:
 
 # Authors
 * Dominic Udousoro  - <dominicudousoro@gmail.com>
-* Michael  - <michae202@gmail.com>
+* Michael  - <mikewachirabb495@gmail.com>
