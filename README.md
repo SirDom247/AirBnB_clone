@@ -88,7 +88,7 @@ all or all <class name> Ex:
 ## Update
 Updates an instance based on the class name and id:
 
-	(hbnb) update BaseModel 1234-1234-1234 email "aibnb@holbertonschool.com"
+	(hbnb) update BaseModel 1234-1234-1234 email "alx@alxschool.com"
 
 ## Quit
 quit or EOF
